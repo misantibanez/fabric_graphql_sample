@@ -1,4 +1,4 @@
-# fabric_graphql_sample# fabric_graphql_sample
+# fabric_graphql_sample
 
 In Azure:
 
